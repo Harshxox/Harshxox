@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Harshdeep Sharma 👋
 
-<!--
-**Harshxox/Harshxox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.Tech CSE (AI/ML & DS)** · Christ University, Bangalore · CGPA: 3.95 / 4.0
 
-Here are some ideas to get you started:
+I build full-stack products and AI-powered systems — fast, clean, and detail-driven.
+From a role-based car rental platform to an AI music generator, I focus on shipping
+things that actually work. Currently exploring agentic AI, LLM integration, and scalable system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Experience
+
+**AI/ML Intern — Infosys Springboard** *(2 Months)*
+- Built an AI-based music composition system that generates music from user prompts using ML techniques
+- Integrated Python-based AI logic with a web frontend for end-to-end functionality
+- Applied hands-on ML concepts including prompt processing and dynamic pattern generation
+
+---
+
+## 🚀 Projects
+
+| **Luxe Drive** | Full-stack car rental system with role-based auth (admin/customer), vehicle inventory & reservations | Node.js, Express, MySQL |
+| **PixelForge Nexus** | Secure project management system with bcrypt auth and role-based access control | Flask, SQLAlchemy, MySQL |
+| **LearnHub** | LMS with course browsing, enrollment, dashboards, and progress tracking | Angular 21, TypeScript |
+| **AI Music Generator** | Generates music from user-provided prompts using ML — built during Infosys internship | Python, TensorFlow |
+| **Amazon UI Clone** | Multi-page responsive e-commerce frontend with product-based UI design | HTML, CSS, JS, Tailwind |
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:** HTML · CSS · JavaScript · TypeScript · Angular · Tailwind CSS · Bootstrap
+
+**Backend:** Node.js · Express.js · Flask · PHP
+
+**Database:** MySQL · MongoDB · SQLAlchemy
+
+**AI/ML:** Python · TensorFlow · REST APIs
+
+**Other:** Git · DSA · Web3
+
+---
+
+## 🏆 Certifications & Events
+
+- 🎓 Front End UI/UX Developer — **L&T EduTech**
+- 🤖 Introduction to AI / Deep Learning / OpenAI GPT Models — **Infosys**
+- 🚀 **NASA** International Space Challenge
+- 🌐 Hack Beyond Limits — Web3 Track, Rathinam Tech Hub *(Aug 2025)*
+- 🇮🇳 **India AI Impact Buildathon** — AI Impact Summit 2026
+- 🏫 TechBiz Hackathon 2026 — Presidency University, Bengaluru
+- ⚡ Viksit Bharat Young Leaders Dialogue 2026
+- 📡 IEEE Technical Summit 2025
+
+---
+
+## 📊 GitHub Stats
+
+![Harshdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshxox&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshxox&layout=compact&hide_border=true)
+
+---
+
+## 📫 Let's Connect
+
+LinkedIn: https://www.linkedin.com/in/harshdeep-ai
+Email: harshdeep21sep2000@gmail.com
+GitHub: https://github.com/Harshxox

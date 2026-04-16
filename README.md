@@ -15,6 +15,12 @@ things that actually work. Currently exploring agentic AI, LLM integration, and 
 - Integrated Python-based AI logic with a web frontend for end-to-end functionality
 - Applied hands-on ML concepts including prompt processing and dynamic pattern generation
 
+  **AI & Security Intern — Larsen & Toubro (L&T) EduTech** *(Mar 2026 – Present)*
+- Architected a context-aware Password Strength Analyzer to evaluate credential robustness and mitigate vulnerabilities like brute-force and dictionary attacks
+- Developed a rule-based evaluation engine integrated with a leaked-password dataset to detect predictable sequences and classify password security (Weak/Medium/Strong)
+- Implemented an intelligent AI-feedback system that provides users with real-time, context-specific suggestions to meet modern cybersecurity standards
+- Designed a clean, responsive UI for seamless input evaluation and structured output reporting
+
 ---
 
 ## 🚀 Projects

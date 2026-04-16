@@ -26,9 +26,13 @@ things that actually work. Currently exploring agentic AI, LLM integration, and 
 ## 🚀 Projects
 
 -| **Luxe Drive** | Full-stack car rental system with role-based auth (admin/customer), vehicle inventory & reservations | Node.js, Express, MySQL |
+
 -| **PixelForge Nexus** | Secure project management system with bcrypt auth and role-based access control | Flask, SQLAlchemy, MySQL |
+
 -| **LearnHub** | LMS with course browsing, enrollment, dashboards, and progress tracking | Angular 21, TypeScript |
+
 -| **AI Music Generator** | Generates music from user-provided prompts using ML — built during Infosys internship | Python, TensorFlow |
+
 -| **Amazon UI Clone** | Multi-page responsive e-commerce frontend with product-based UI design | HTML, CSS, JS, Tailwind |
 
 ---

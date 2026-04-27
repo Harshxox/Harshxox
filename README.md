@@ -65,8 +65,6 @@ things that actually work. Currently exploring agentic AI, LLM integration, and 
 ---
 
 ## 📊 GitHub Stats
-
-![Harshdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshxox&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshxox&layout=compact&hide_border=true)
 
 ---

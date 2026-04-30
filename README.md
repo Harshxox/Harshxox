@@ -64,6 +64,12 @@ things that actually work. Currently exploring agentic AI, LLM integration, and 
 
 ---
 
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshxox&theme=darkhub&no-frame=true&margin-w=10"/>
+</p>
+
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshxox&layout=compact&hide_border=true)
 

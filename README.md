@@ -1,8 +1,8 @@
 # Hi, I'm Harshdeep Sharma👋
 
-**B.Tech CSE (AI/ML & DS)** · Christ University, Bangalore · CGPA: 3.95 / 4.
+**B.Tech CSE (AI/ML & DS)** · Christ University, Bangalore · CGPA: 3.95 / 4.0
 
-I build full-stack products and AI-powered systems — fast, clean, and detail-driven.
+I build full-stack products and AI-powered systems — fast, clean, and detail-driven
 From a role-based car rental platform to an AI music generator, I focus on shipping
 things that actually work. Currently exploring agentic AI, LLM integration, and scalable system design.
 

@@ -1,4 +1,4 @@
-# Hi, I'm Harshdeep Sharma👋
+# Hi, I'm Harshdeep Sharma
 
 **B.Tech CSE (AI/ML)** · Christ University, Bangalore · CGPA: 3.95 / 4.0
 

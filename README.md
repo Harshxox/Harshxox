@@ -58,7 +58,7 @@ things that actually work. Currently exploring agentic AI, LLM integration, and 
 - 🚀 **NASA** International Space Challenge
 - 🌐 Hack Beyond Limits - Web3 Track, Rathinam Tech Hub *(Aug 2025)*
 - 🇮🇳 **India AI Impact Buildathon** — AI Impact Summit 2026
-- 🏫 TechBiz Hackathon 2026 — Presidency University, Bengaluru
+- 🏫 TechBiz Hackathon 2026 - Presidency University, Bengaluru
 - ⚡ Viksit Bharat Young Leaders Dialogue 2026
 - 📡 IEEE Technical Summit 2025
 

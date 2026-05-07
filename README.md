@@ -56,7 +56,7 @@ things that actually work. Currently exploring agentic AI, LLM integration, and 
 - 🎓 Front End UI/UX Developer — **L&T EduTech**
 - 🤖 Introduction to AI / Deep Learning / OpenAI GPT Models — **Infosys**
 - 🚀 **NASA** International Space Challenge
-- 🌐 Hack Beyond Limits — Web3 Track, Rathinam Tech Hub *(Aug 2025)*
+- 🌐 Hack Beyond Limits - Web3 Track, Rathinam Tech Hub *(Aug 2025)*
 - 🇮🇳 **India AI Impact Buildathon** — AI Impact Summit 2026
 - 🏫 TechBiz Hackathon 2026 — Presidency University, Bengaluru
 - ⚡ Viksit Bharat Young Leaders Dialogue 2026
